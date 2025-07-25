@@ -1,4 +1,4 @@
-# 🤖 BOT OTP WhatsApp - by Ibas Rj
+# 🤖 BOT OTP WhatsApp - Recode IbasRj
 
 Bot ini dibuat dengan tujuan utama untuk **menerima kode OTP (One-Time Password)** dari pesan WhatsApp secara otomatis dan mencatatnya ke dalam file log. Dibangun menggunakan `@whiskeysockets/baileys`, bot ini cocok untuk proyek verifikasi atau testing sistem OTP berbasis WhatsApp.
 
@@ -71,7 +71,7 @@ Bot ini dibuat dengan tujuan utama untuk **menerima kode OTP (One-Time Password)
 
 ## 👤 Pembuat
 
-> Bot dibuat oleh **Ibas Rj**  
+> Bot Recode **IbasRj**  
 > [GitHub](https://github.com/ibasrj23) 
 > [Instagram](https://instagram.com/kyy_rj)
 > [Dibantu](https://chatgpt.com/)
