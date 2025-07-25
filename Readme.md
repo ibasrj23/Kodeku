@@ -59,7 +59,7 @@ Bot ini dibuat dengan tujuan utama untuk **menerima kode OTP (One-Time Password)
 ---
 
 ## ⚠️ Catatan
-
+- **Penting : Bot ini masih dalam tahap pengembangan**
 - **QR Code** hanya muncul di terminal saat awal login. Setelah terhubung, bot akan otomatis reconnect bila koneksi terputus (kecuali logout manual).
 - OTP hanya akan dicatat jika sesuai pola angka **4–8 digit**.
 - Jangan gunakan bot ini untuk tujuan yang melanggar kebijakan WhatsApp.
