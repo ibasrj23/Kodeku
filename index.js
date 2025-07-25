@@ -29,7 +29,7 @@ const startBot = async () => {
             console.log("🔌 Terputus. Reconnect?", shouldReconnect)
             if (shouldReconnect) startBot()
         } else if (connection === "open") {
-            console.log("yoo bang", sock.user.name || sock.user.id, "Selamat datang di Bot OTP WhatsApp!, Bot By ibas rj")
+            console.log("yoo bang", sock.user.name || sock.user.id, "Selamat datang di Bot OTP WhatsApp!")
             console.log("📡 Bot siap menerima pesan!")
     }
     })
