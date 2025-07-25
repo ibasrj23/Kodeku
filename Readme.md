@@ -17,8 +17,8 @@ Bot ini dibuat dengan tujuan utama untuk **menerima kode OTP (One-Time Password)
 
 1. **Clone repo / download project**
    ```bash
-   git clone https://github.com/ibasrj23/bot-otp-wa.git
-   cd bot-otp-wa
+   git clone https://github.com/ibasrj23/Kodeku.git
+   cd Kodeku
    ```
 
 2. **Install dependencies**
